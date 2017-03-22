@@ -10,7 +10,7 @@
 	<?php 
 		include 'class/BD.php';
 		$nuevo_obj=new BD();
-			echo $nuevo_obj->estilos("bootstrap");
+			echo $nuevo_obj->estilos("css");
 	?>
 </head>
 <body>
